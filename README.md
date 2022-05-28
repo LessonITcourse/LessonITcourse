@@ -1,5 +1,11 @@
 About Lesson IT Course
 
+
+
+
+
+
+
 Founded on September 9, 2021
 
 We are a startup or community that provides Courses and Learning in the IT world such as Peneration testing, Front end 
