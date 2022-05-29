@@ -2,10 +2,6 @@ About Lesson IT Course
 
 
 
-
-
-
-
 Founded on September 9, 2021
 
 We are a startup or community that provides Courses and Learning in the IT world such as Peneration testing, Front end 
@@ -16,8 +12,8 @@ ESTABLISHED BY 5 STUPID PEOPLE IE
 - VAREL VALEN SIO
 - HANIF MAULANA FAJAR
 - MARVIN
-- SHAHAND
-- RUYA
+- SYAHDAN ALHADI NUGRAHA
+- MUHAMMAD RIZKY RUYA PRAWINATA
 
 Follow us on :
 
