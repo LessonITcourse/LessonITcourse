@@ -1,18 +1,17 @@
-About Lesson IT Course
+# About Lesson IT Course
 
 
 
-Founded on September 9, 2021
+#### Founded on September 9, 2021
 
-We are a startup or community that provides Courses and Learning in the IT world such as Peneration testing, Front end 
-developer, Backend developer, DevSecOps, Editor, etc.
+LIT Course atau lesson IT Course adalah startup yang sedang di bagun oleh remaja-remaja indonesia yang bertujuan mengajarkan hacking secara benar dan baik, kami menyediakan course belajar hacking dengan harga mudah dan terjangkau.
 
 LIT COURSE OR LESSON IT COURSE
-ESTABLISHED BY 5 STUPID PEOPLE IE
+ESTABLISHED BY 5 
 - VAREL VALEN SIO
 - HANIF MAULANA FAJAR
 - MARVIN
-- SYAHDAN ALHADI NUGRAHA
+- SYAHDAN ALHADI NUGRAHA (Keluar)
 - MUHAMMAD RIZKY RUYA PRAWINATA
 
 Follow us on :
