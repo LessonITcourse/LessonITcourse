@@ -5,10 +5,9 @@
 
 #### Founded on September 9, 2021
 
-LIT Course atau lesson IT Course adalah startup yang sedang di bagun oleh remaja-remaja indonesia yang bertujuan mengajarkan hacking secara benar dan baik, kami menyediakan course belajar hacking dengan harga mudah dan terjangkau.
+LIT Course atau lesson IT Course adalah startup yang sedang di bagun oleh remaja-remaja indonesia yang bertujuan mengajarkan hacking secara benar dan baik, kami menyediakan course belajar hacking dengan harga murah dan terjangkau.
 
-### LIT COURSE OR LESSON IT COURSE
-### ESTABLISHED BY 5 
+### LIT COURSE OR LESSON IT COURSE ESTABLISHED BY 5 
 
 - VAREL VALEN SIO
 - HANIF MAULANA FAJAR
@@ -20,6 +19,8 @@ LIT Course atau lesson IT Course adalah startup yang sedang di bagun oleh remaja
 
 Instagram : @litcourse_
 
+Website   : https://lit-course.com/
+
 Email     : lessonitcourse@gmail.com
 
-Blog      : lessonitcourse.blogspot.com
+Blogger   : http://www.lessonitcourse.my.id/
